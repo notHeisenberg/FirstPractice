@@ -10,8 +10,9 @@
     <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
   </padding>
 
-  <Label fx:id="welcomeText"  />
+  <Label fx:id="welcomeText" />
   <Button onAction="#onHelloButtonClick" text="Hello!" />
    <Button mnemonicParsing="false" onAction="#handleJava" text="Let's dive into java together" />
    <Label fx:id="welcomeText2" />
+   <Button mnemonicParsing="false" onAction="#handleGoooooo" text="Goooooooooooooooooooo" />
 </VBox>

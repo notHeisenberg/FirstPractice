@@ -16,7 +16,12 @@ public class HelloController {
         welcomeText.setText("Welcome to JavaFX Application!");
     }
 
+    @FXML
     public void handleJava(ActionEvent actionEvent) {
         welcomeText2.setText("Lets go");
+    }
+
+    @FXML
+    public void handleGoooooo(ActionEvent actionEvent) {
     }
 }
